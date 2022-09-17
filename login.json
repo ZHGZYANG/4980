@@ -1,0 +1,22 @@
+{
+  "requestContext": {
+    "routeKey": "login",
+    "messageId": "IaEMVcRLIAMCKVw=",
+    "eventType": "MESSAGE",
+    "extendedRequestId": "IaEMVELUoAMF4EQ=",
+    "requestTime": "07/Nov/2021:00:14:06 +0000",
+    "messageDirection": "IN",
+    "stage": "production",
+    "connectedAt": 1636244017121,
+    "requestTimeEpoch": 1636244046743,
+    "identity": {
+      "sourceIp": "108.169.219.70"
+    },
+    "requestId": "IaEMVELUoAMF4EQ=",
+    "domainName": "6upodzvebj.execute-api.us-east-1.amazonaws.com",
+    "connectionId": "IaEHtcD9IAMCKVw=",
+    "apiId": "6upodzvebj"
+  },
+  "body": "{"action":"login", "username":"hellousername", "password": "worldpassword"}",
+  "isBase64Encoded": "False"
+}
